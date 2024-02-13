@@ -8,7 +8,9 @@ a. Fill out the application form, insert your electronic signature, and
 b. Send it to JAEA oeg via "contact" page by selecting "Submission of application form". 
 
 Application form : https://phits.jaea.go.jp/image/Application_Form_PHITS.pdf
+
 Contact : https://phits.jaea.go.jp/contact/edit/en
+
 Example of application form : https://phits.jaea.go.jp/image/Application_Form_PHITS_sample.pdf
 
 

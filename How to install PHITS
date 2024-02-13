@@ -1,0 +1,8 @@
+Once you access to the JAEA drive, you have to get another password for downloading phits####.zipxxxx, where #### is the version ID.
+
+The installation procedure is as follow:
+  1. Rename phits####.zipxxxx to phits####.zip
+  2. Extract the zip file with password "phits@JAEA"
+  3. Read "readme-en.txt", "mac/README-eng.pdf", and "linux/readme-eng.txt" for the instructions for Windows, Mac, and Linux users, respectively.
+
+If you have already installed PHITS, please rename (or delete) the old "phits" folder before the installation, and install the new version in the same folder.
